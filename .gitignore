@@ -1,0 +1,9 @@
+# Ignore images
+*.png
+*.jpg
+*.gif
+
+# Ignore built files
+index.html
+thumbs/
+pages/
